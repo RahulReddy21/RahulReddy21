@@ -4,7 +4,7 @@
 <h3 align="center">Data Science Master's Student | Machine Learning & AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Scientist;AI+%26+NLP+Enthusiast;Building+Real+World+Data+Science+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Scientist;AI+%26+NLP+Enthusiast;Building+Real+World+Data+Science+Projects">
 </p>
 
 ---
